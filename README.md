@@ -81,11 +81,17 @@ Despite initial plans to join all three datasets on `state` and `offense type`, 
 
 To view the analysis and visualizations:
 
-Open the HTML file in your web browser:
+    1. Download the raw HTML file:
 
-Right-click the file and select "Open with" → "Your Browser" (e.g., Chrome, Firefox).
+        - Visit the project repository on GitHub.
 
-Explore the interactive elements and visual representations within the report.
+        - Locate the HTML file.
+
+        - Click on the file and select Download or Save As to your computer.
+
+    2. Open the HTML file in your web browser:
+
+        - Right-click the file and select Open with → Your Browser (e.g., Chrome, Firefox).
 
 Important Note:
 It appears that the FBI Crime Data API endpoints have changed, and some of the data originally used in this analysis may no longer be accessible through the same methods. As a result, this project may not be fully reproducible with the original code and data sources. The report, however, remains available for exploration and insight.
