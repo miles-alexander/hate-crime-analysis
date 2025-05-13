@@ -77,33 +77,18 @@ Despite initial plans to join all three datasets on `state` and `offense type`, 
 
 ---
 
-## Run Locally
+## View the Report
 
-To run this project on your machine:
+To view the analysis and visualizations:
 
- **Clone the repository**:
-   ```bash
-   git clone https://github.com/miles-alexander/hate-crime-analysis.git
-   cd hate-crime-analysis
-   ```
+Open the HTML file in your web browser:
 
-**Open the Jupyter Notebook**:
-   - Launch JupyterLab or Jupyter Notebook from your terminal or IDE.
-   - Open the `.ipynb` file associated with this project (e.g., `HateCrimeAnalysis.ipynb`).
+Right-click the file and select "Open with" → "Your Browser" (e.g., Chrome, Firefox).
 
-**Install required libraries** (if not already installed):
-   ```bash
-   pip install pandas matplotlib seaborn requests
-   ```
+Explore the interactive elements and visual representations within the report.
 
-**Download the datasets**:
-   - Visit the [Kaggle source](https://www.kaggle.com/datasets/lyonabido/hate-crime-statistics-annual-report-for-2020)
-   - Place the datasets into a `/data/` folder at the root of the project.
-   - If using the FBI API, ensure you request and include your own API key (if required by the endpoint).
-
-**Run the notebook** step by step to reproduce visualizations and analysis.
-
-> This project was built using Python 3.10 and JupyterLab. Please adjust paths if your environment differs.
+Important Note:
+It appears that the FBI Crime Data API endpoints have changed, and some of the data originally used in this analysis may no longer be accessible through the same methods. As a result, this project may not be fully reproducible with the original code and data sources. The report, however, remains available for exploration and insight.
 
 ---
 
