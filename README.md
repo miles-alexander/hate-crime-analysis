@@ -1,4 +1,4 @@
-# Hate Crime in America: State-Level Patterns and Insights  
+# Hate Crime in America: State-Level Patterns and Insights ⚖️
 **Author:** [@miles-alexander](https://github.com/miles-alexander)  
 
 
